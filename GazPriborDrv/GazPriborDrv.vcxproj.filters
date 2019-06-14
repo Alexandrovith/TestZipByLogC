@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="DevProcessor.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DevStorage.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GazPriborDrv.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SerialDev.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SFproto.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SfTransaction.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Transaction.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TransactionParam.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="FindPair.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="StopStartDev.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DevProcessor.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DevStorage.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GazPriborDrv.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SerialDev.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SFproto.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SfTransaction.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Transaction.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TransactionParam.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="FindPair.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="StopStartDev.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\VersionsSF.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{7322d194-f5c1-4f28-a6fd-8ee7ea2200f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{29b30c04-37bf-4f9e-8b58-f96cb0b8de72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
